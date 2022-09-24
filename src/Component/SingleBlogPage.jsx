@@ -10,7 +10,7 @@ console.log(title)
   return (
     <div className='blogpage'>
         <h1>{title}</h1>
-        <img src={img} alt="" />
+        <img src={img} aria-hidden alt="Not found" />
         <p>{description}</p>
       
     </div>
