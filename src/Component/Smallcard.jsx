@@ -8,7 +8,7 @@ const Smallcard = (props) => {
       <div className='Smallbox' >
         <div className="Card" >
           <div className="SmallboxImage">
-            <img src={imgUrl} alt="Image not found" />
+            <img src={imgUrl} aria-hidden alt="Not found" />
           </div>
           <div className='Head'  >
             <h3>{title}</h3>
