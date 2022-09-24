@@ -16,7 +16,7 @@ const Card = (props) => {
       <div >
         <div className="Cardcomponent">
           <div className="cardImage">
-            <img src={imgUrl}  aria-hidden alt="Image not found" />
+            <img src={imgUrl}  aria-hidden alt=" Not found" />
           </div>
           <div className="Bigcard">
             <h3>{title}</h3>
