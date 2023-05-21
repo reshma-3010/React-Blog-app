@@ -7,7 +7,7 @@ const Details = (props) => {
     {
       "id": 1,
       "title": "Puspa:The Rise",
-      "Image": "https://english.sakshi.com/sites/default/files/styles/storypage_main/public/article_images/2022/09/20/rashmika-1663664384.jpg?itok=nBnTiqKV",
+      "Image": "https://w0.peakpx.com/wallpaper/670/683/HD-wallpaper-pushpa-the-rise-2021-movie.jpg",
       "category": "Bollywood",
       "description":"Pushpa: The Rise was released on 17 December 2021 in Telugu along with dubbed versions in Malayalam, Hindi, Tamil, and Kannada languages.",
     },
