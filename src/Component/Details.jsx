@@ -232,7 +232,7 @@ const Details = (props) => {
   
   {
     "id": 29,
-    "Image":"https://www.sharda.ac.in/blog/wp-content/uploads/2020/10/Latest-technologies-for-web-development2.jpg",
+    "Image":"https://ares.decipherzone.com/blog-manager/uploads/banner_3ceec8dc-c260-47d9-a8f8-79dd0ee7ea37.jpg",
     "title":"Latest Technologies for Web Development",
      "description":"Web Development is anything associated with a website, including static HTML page, front-end, and back-end development. While the front end is visible to everyone using the website, and that has webpages, graphics, text, images, the back-end is everything related to database, API’s and more,",
      "category":"technology"
