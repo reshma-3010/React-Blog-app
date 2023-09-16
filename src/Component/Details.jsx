@@ -210,12 +210,10 @@ const Details = (props) => {
   },
   {
     "id": 27,
-  
-      
-      "Image":"https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
-      "title":"Artificial Intelligence",
-       "description":"Artificial intelligence is a branch of computer science where the human brain is controlled or mimicked by a computer. Using this technology, human thinking power and intelligence are controlled by computers.",
-       "category":"mix"
+    "Image":"https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
+    "title":"Artificial Intelligence",
+    "description":"Artificial intelligence is a branch of computer science where the human brain is controlled or mimicked by a computer. Using this technology, human thinking power and intelligence are controlled by computers.",
+    "category":"mix"
       
     
   },
